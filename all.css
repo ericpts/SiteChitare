@@ -94,6 +94,8 @@ article {
 }
 
 img {
+	max-width: 30%;
+	height: auto;
 	box-shadow: 0 0 50px white;
 }
 
